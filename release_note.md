@@ -1,3 +1,19 @@
+## 版本号：v1.5.118
+
+* 修改记录：
+  * 支付宝v2：新增 订阅 相关接口。
+    * client.TradeProductCreate()，商品创建接口。
+    * client.TradeProductModify()，商品修改接口。
+    * client.TradeProductQuery()，商品查询接口。
+    * client.TradePriceCreate()，价格创建接口。
+    * client.TradePriceQuery()，价格查询接口。
+    * client.TradeCustomerCreate()，客户创建接口。
+    * client.TradeSubscriptionCreate()，订阅创建接口。
+    * client.TradeSubscriptionModify()，订阅修改接口。
+    * client.TradeSubscriptionQuery()，订阅查询接口。
+
+
+
 ## 版本号：v1.5.117
 
 * 修改记录：
